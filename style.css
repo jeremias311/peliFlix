@@ -1,0 +1,28 @@
+body{
+color:black;
+background-color:aliceblue;
+margin: 0px ;
+margin-bottom: 100px;
+}
+
+header{   
+
+border-bottom: solid 2px #0c0c0c;
+margin: 20px;
+font-size: 32px
+color: #0c0c0c;
+
+} 
+
+section{
+
+padding-bottom: 80px;
+padding-top: 80px ;
+background: gray ;
+display: flex;
+justify-content: center;
+
+
+}
+
+
